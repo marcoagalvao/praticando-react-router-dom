@@ -10,7 +10,7 @@ Projeto feito com o intuito de praticar o react, mais especificamente o uso da b
 | :fire: Desafio     | https://cursos.alura.com.br/course/React-desenvolvendo-react-router-javaScript
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](blob:https://vercel.com/3a3c0e6f-3541-4d04-855e-c42f7317bf7e#vitrinedev)
+![](https://i.im.ge/2023/02/09/aN4Bvc.Screenshot-1.png#vitrinedev)
 
 ## Detalhes do projeto
 
